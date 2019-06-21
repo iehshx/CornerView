@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CornerView">
+        <attr name="cornerTopLeft" format="boolean"  />
+        <attr name="cornerTopRight" format="boolean"  />
+        <attr name="cornerBottomLeft"  format="boolean"  />
+        <attr name="cornerBottomRight" format="boolean"  />
+    </declare-styleable>
+
+</resources>
